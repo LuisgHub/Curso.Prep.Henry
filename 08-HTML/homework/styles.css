@@ -1,0 +1,23 @@
+.divClass h1 {
+    color: black;
+}
+
+#thirdDiv img {
+    width: 350px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+}
+
+#thirdDiv {
+    background-color: lightblue;
+    border: 2px dotted red;
+}
+
+#spanid {
+    font-size: 18px;
+    margin: 50px;
+}
